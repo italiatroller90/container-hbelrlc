@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Dec 02 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@italiatroller90](https://github.com/italiatroller90))
+
+#### Authors: 1
+
+- [@italiatroller90](https://github.com/italiatroller90)
+
+---
+
 # v0.0.1 (Tue Oct 31 2023)
 
 :tada: This release contains work from a new contributor! :tada:
