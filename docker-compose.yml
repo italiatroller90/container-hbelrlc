@@ -2,11 +2,11 @@ services:
   app:
     stdin_open: true
     tty: true
-    image: container-hbelrlc
+    image: yen3/ubuntu-novnc
     build:
       context: ./src
     ports:
-      - "5000:5000"
+      - "6080:6080"
     volumes:
       - type: bind
         source: ./src/web
